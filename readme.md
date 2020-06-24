@@ -2,7 +2,7 @@
 ###PROJECT MEMBERS###
 StdID | Name
 ------------ | -------------
-**63152** | *Syed Muhammad Mohtashim Kamal** <!--this is the group leader in bold-->
+**63152** | **Syed Muhammad Mohtashim Kamal** <!--this is the group leader in bold-->
 63433 | Yousuf Muhammad Khan
 <!-- Replace name and student ids with acutally group member names and ids-->
 ## Abstract ##
