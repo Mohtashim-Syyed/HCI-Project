@@ -9,7 +9,10 @@ StdID | Name
 According to a recent statistical analysis conducted in 2018, more than 40% of the population has no reading or writing skills especially in rural areas of Pakistan. On the contrary, the mobile phone users have grown at a very steep rate even with a stagnant literacy rate. We formed a user-driven approach to research, develop and test a prototype mobile application that could be used to teach illiterates basic reading, writing and counting skills without using traditional schooling techniques.
 
 ## Our Mission ##
-* Teach
+* Teach people to evaluate and question their sources.
+* Making thoughtful cultural and platform decisions.
+* Expanding conceptions of Digital world.
+
 
 ## Domain Description ##
 Replace this text with the description the domain you have choose. Give reason behind your choice. Explain why you were motivated etc. etc.
