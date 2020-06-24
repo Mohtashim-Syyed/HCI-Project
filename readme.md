@@ -1,10 +1,13 @@
-#HCI 104475: REPLACE WITH YOUR PROJECT TITLE#
+#HCI 104475: Mobile Application For Teaching Illiterates#
 ###PROJECT MEMBERS###
 StdID | Name
 ------------ | -------------
-**12345** | **Amjad Majid** <!--this is the group leader in bold-->
-54321 | Sajid Rashid
+**63152** | *Syed Muhammad Mohtashim Kamal** <!--this is the group leader in bold-->
+63433 | Yousuf Muhammad Khan
 <!-- Replace name and student ids with acutally group member names and ids-->
+## Abstract ##
+According to a recent statistical analysis conducted in 2018, more than 40% of the population has no reading or writing skills especially in rural areas of Pakistan. On the contrary, the mobile phone users have grown at a very steep rate even with a stagnant literacy rate. We formed a user-driven approach to research, develop and test a prototype mobile application that could be used to teach illiterates basic reading, writing and counting skills without using traditional schooling techniques.
+
 ## Domain Description ##
 Replace this text with the description the domain you have choose. Give reason behind your choice. Explain why you were motivated etc. etc.
 
