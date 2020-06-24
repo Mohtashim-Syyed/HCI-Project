@@ -37,3 +37,5 @@ Replace this text with the desription of what technologies you think can be inco
 - You are CS students not some tom harry from BBA SHE-B-A :-).
 - You can and must learn to use markdown and Github. 
 - All future project development will be done in something similar to GITHUB
+yousuf khan 
+
