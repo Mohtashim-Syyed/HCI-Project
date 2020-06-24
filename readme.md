@@ -1,5 +1,5 @@
-#HCI 104475: Mobile Application For Teaching Illiterates#
-###PROJECT MEMBERS###
+# HCI 104475: Mobile Application For Teaching Illiterates #
+### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
 **63152** | **Syed Muhammad Mohtashim Kamal** <!--this is the group leader in bold-->
