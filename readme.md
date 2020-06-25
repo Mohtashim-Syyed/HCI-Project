@@ -33,5 +33,6 @@ Replace this text with what the task is. Some detail what people are actually th
 Replace this text with the desription of what technologies you think can be incooperated in the domain you have selected and tasks that you have listed to make the HCI more invisible.
 
 ## References ##
-- Global literacy rate document https://www.theglobeandmail.com/news/world/global-rate-of-adult-literacy-84-per-cent-but-775-million-people-still-cant-read/article4528932/
+- Global Literacy Rate Document https://www.theglobeandmail.com/news/world/global-rate-of-adult-literacy-84-per-cent-but-775-million-people-still-cant-read/article4528932/
+- Dseigning for Mobile Apps https://medium.com/blueprint-by-intuit/native-mobile-app-design-overall-principles-and-common-patterns-26edee8ced10
 
