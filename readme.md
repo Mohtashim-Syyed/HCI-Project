@@ -21,16 +21,32 @@ Digitally literate teachers see technology for all of its creative potential, ra
 
 
 ## Tasks Performed ##
-We saw in class that the actual reason of using a device or interacting with an interface is to accomplish a task. List around 10 tasks that you think users performs in your domain of choosing where good HCI can help people.
+As we mentioned above that this app will be purely developed to facilitate illiterate people so making them interact will the app easily would itself be an achievement. There will be multiple of tasks which a user can perform. Some are mentioned below: 
 
- ### Task 1: Some Name ###
-Replace this text with what the task is. Some detail what people are actually thinking to accomplish this task. What is the goad, currently how large are the gulf of evaluations and execution
-
- ### Task 2: Another  Name ###
-Replace this text with what the task is. Some detail what people are actually thinking to accomplish this task. What is the goad, currently how large are the gulf of evaluations and execution
-
+### Task 1: Login ###
+There will be a login for both admin and student.
+ ### Task 2: Demo Video ###
+There will be a demo video for user, so they can interact will the app easily and efficiently. To play the video we will use simple and famous icon of play button so user can understand the use of this. There will be no delay, it will play at a button click.
+### Task 3: Language Selection ###
+User can select his desired language.
+### Task 4: Subject Selection ###
+There will be an option to select different subjects.
+### Task 5: Teacher Selection ###
+User can select a particular teacher by viewing their rating.
+### Task 6: Lectures ###
+Lectures can be of multiple types like, it can be a video, tutorial or audio based.
+### Task 7: Quizzes ###
+Students will be able to attend quizzes.
+### Task 8: Suject material ###
+Teacher will have slides and notes relevant to the topics.
+### Task 9: Messaging ###
+Student can clarify their doubts by sending messages to their respected teachers.
+### Task 10: Rating Teachers ###
+Student will be allowed to rate a teacher on the basis of their lecture delivering skills.
+### Task 11: Logout ###
+There will be a logout option for both admin and student.
 ## Prospect Technology Use ##
-Replace this text with the desription of what technologies you think can be incooperated in the domain you have selected and tasks that you have listed to make the HCI more invisible.
+we will be making mobile app as mobile phones are quite popular these days and mostly every indivisual have access to it. We will use html, css and java script to make HCI invisble for our users.
 
 ## References ##
 - Global Literacy Rate Document https://www.theglobeandmail.com/news/world/global-rate-of-adult-literacy-84-per-cent-but-775-million-people-still-cant-read/article4528932/
