@@ -15,7 +15,10 @@ According to a recent statistical analysis conducted in 2018, more than 40% of t
 
 
 ## Domain Description ##
-Replace this text with the description the domain you have choose. Give reason behind your choice. Explain why you were motivated etc. etc.
+The domain at which we will be working is **Educational**. The reason behind selecting this domain is because learning to read and write is expensive and inaccessible to most of the 8 million adult illiterates in Kenya (and 775 million worldwide). WE are creating a mobile platform that will provide universally accessible, affordable and personalized education to illiterate adults. The app is designed for people with zero-low school attendance, and teaches reading and writing lessons through bite-sized exercises.
+
+Digitally literate teachers see technology for all of its creative potential, rather than something they are mandated to do. Digital literacy does not require that teachers become experts, but it does require that they understand the digital tools that can unlock their deeper teaching potential.
+
 
 ## Tasks Performed ##
 We saw in class that the actual reason of using a device or interacting with an interface is to accomplish a task. List around 10 tasks that you think users performs in your domain of choosing where good HCI can help people.
