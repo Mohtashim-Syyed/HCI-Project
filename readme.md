@@ -23,10 +23,10 @@ Digitally literate teachers see technology for all of its creative potential, ra
 ## Tasks Performed ##
 We saw in class that the actual reason of using a device or interacting with an interface is to accomplish a task. List around 10 tasks that you think users performs in your domain of choosing where good HCI can help people.
 
- ### 1. Task 1: Some Name ###
+ ### Task 1: Some Name ###
 Replace this text with what the task is. Some detail what people are actually thinking to accomplish this task. What is the goad, currently how large are the gulf of evaluations and execution
 
- ### 2.Task 2: Another  Name ###
+ ### Task 2: Another  Name ###
 Replace this text with what the task is. Some detail what people are actually thinking to accomplish this task. What is the goad, currently how large are the gulf of evaluations and execution
 
 ## Prospect Technology Use ##
