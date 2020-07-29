@@ -61,11 +61,15 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 ![1](https://user-images.githubusercontent.com/61554600/88802124-16879180-d1c4-11ea-80ef-4a4529891cb9.jpeg)
 
+
 ![2](https://user-images.githubusercontent.com/61554600/88802131-17b8be80-d1c4-11ea-9381-bb25947ff90d.jpeg)
+
 
 ![3](https://user-images.githubusercontent.com/61554600/88802133-18515500-d1c4-11ea-97c0-3f1009f29618.jpeg)
 
+
 ![4](https://user-images.githubusercontent.com/61554600/88802136-18515500-d1c4-11ea-89aa-65689ad7381c.jpeg)
+
 
 ![WhatsApp Image 2020-07-29 at 5 46 12 PM](https://user-images.githubusercontent.com/61554600/88802138-18e9eb80-d1c4-11ea-9bfd-2e373d35183b.jpeg)
 
@@ -86,26 +90,31 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 ![WhatsApp Image 2020-07-29 at 7 19 47 PM](https://user-images.githubusercontent.com/61554600/88812025-b3e8c280-d1d0-11ea-89b0-4ff7d1d6a53b.jpeg)
 
+
 ![WhatsApp Image 2020-07-29 at 7 19 48 PM](https://user-images.githubusercontent.com/61554600/88812020-b3502c00-d1d0-11ea-9813-7c58d5da9616.jpeg)
+
 
 ![WhatsApp Image 2020-07-29 at 7 19 48 PM (1)](https://user-images.githubusercontent.com/61554600/88812016-b21eff00-d1d0-11ea-96cc-4a877682a91a.jpeg)
 
+
 ### Prototype:-02 ###
+
 ![WhatsApp Image 2020-07-29 at 8 51 29 PM](https://user-images.githubusercontent.com/61554600/88822911-e816b000-d1dd-11ea-90f5-344c65637113.jpeg)
+
 
 ![WhatsApp Image 2020-07-29 at 8 51 29 PM (1)](https://user-images.githubusercontent.com/61554600/88822910-e77e1980-d1dd-11ea-8b6c-02ba7626611d.jpeg)
 
+
 ![WhatsApp Image 2020-07-29 at 8 51 29 PM (2)](https://user-images.githubusercontent.com/61554600/88822906-e64cec80-d1dd-11ea-9d09-c216a4a5c78c.jpeg)
+
 
 ![WhatsApp Image 2020-07-29 at 8 51 29 PM (3)](https://user-images.githubusercontent.com/61554600/88822904-e51bbf80-d1dd-11ea-94ec-ca78b75fcbef.jpeg)
 
+
 ![WhatsApp Image 2020-07-29 at 8 51 29 PM (4)](https://user-images.githubusercontent.com/61554600/88822901-e4832900-d1dd-11ea-842c-29d8c3056772.jpeg)
 
+
 ![WhatsApp Image 2020-07-29 at 8 51 29 PM (5)](https://user-images.githubusercontent.com/61554600/88822888-e2b96580-d1dd-11ea-8a42-a8804807457e.jpeg)
-
-
-
-
 
 
 ## Evaluation ##
