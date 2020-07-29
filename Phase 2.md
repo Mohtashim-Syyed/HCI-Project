@@ -78,7 +78,7 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 4-Font must be visible and buttons must be at accurate places.
 
-5- By considering each and every questions we select design 4 and 9 for our prototyping as they are quite better than others.
+5- By considering each and every questions we select design 4 and 9 for prototyping as they are quite better than others.
 
 ## Prototyping ##
 Develop low fidelity prototypes for each of the 2 disgns selected above. 
