@@ -59,6 +59,15 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 ## Storyboards ##
 
+![1](https://user-images.githubusercontent.com/61554600/88802124-16879180-d1c4-11ea-80ef-4a4529891cb9.jpeg)
+
+![2](https://user-images.githubusercontent.com/61554600/88802131-17b8be80-d1c4-11ea-9381-bb25947ff90d.jpeg)
+
+![3](https://user-images.githubusercontent.com/61554600/88802133-18515500-d1c4-11ea-97c0-3f1009f29618.jpeg)
+
+![4](https://user-images.githubusercontent.com/61554600/88802136-18515500-d1c4-11ea-89aa-65689ad7381c.jpeg)
+
+![WhatsApp Image 2020-07-29 at 5 46 12 PM](https://user-images.githubusercontent.com/61554600/88802138-18e9eb80-d1c4-11ea-9bfd-2e373d35183b.jpeg)
 
 
 
