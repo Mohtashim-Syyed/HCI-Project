@@ -52,5 +52,3 @@ we will be making mobile app as mobile phones are quite popular these days and m
 - Global Literacy Rate Document https://www.theglobeandmail.com/news/world/global-rate-of-adult-literacy-84-per-cent-but-775-million-people-still-cant-read/article4528932/
 - Dseigning for Mobile Apps https://medium.com/blueprint-by-intuit/native-mobile-app-design-overall-principles-and-common-patterns-26edee8ced10
 
-
-![8 queen attack](https://user-images.githubusercontent.com/61554600/88760009-8165a800-d185-11ea-91aa-7643c050967a.PNG)
