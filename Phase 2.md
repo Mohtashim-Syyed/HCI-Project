@@ -112,4 +112,4 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 
 ## Evaluation ##
-Extremely benefical app for illiterate people. it is easy to use, have demo to explain all the features, and just few tasks at a single screen  
+Some GUI issues are there as the back keys are not defined at proper places but Extremely benefical app for illiterate people. it is easy to use, have demo to explain all the features, and just few tasks at a single screen. 
