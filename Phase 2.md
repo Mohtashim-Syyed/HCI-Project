@@ -118,4 +118,4 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 
 ## Evaluation ##
-Get the prototypes evaluated quickly by someone in your family or circle.  
+Extremely benefical app for illiterate people. it is easy to use, have demo to explain all the features, and just few tasks at a single screen  
