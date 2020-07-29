@@ -82,7 +82,7 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 ## Prototyping ##
 
-#### Prototype:-01 ####
+### Prototype:-01 ###
 
 ![WhatsApp Image 2020-07-29 at 7 19 47 PM](https://user-images.githubusercontent.com/61554600/88812025-b3e8c280-d1d0-11ea-89b0-4ff7d1d6a53b.jpeg)
 
