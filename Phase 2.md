@@ -91,14 +91,22 @@ For the above two task our targeted audeince will be illiterate people. These pe
 ![WhatsApp Image 2020-07-29 at 7 19 48 PM (1)](https://user-images.githubusercontent.com/61554600/88812016-b21eff00-d1d0-11ea-96cc-4a877682a91a.jpeg)
 
 ### Prototype:-02 ###
+![WhatsApp Image 2020-07-29 at 8 51 29 PM](https://user-images.githubusercontent.com/61554600/88822911-e816b000-d1dd-11ea-90f5-344c65637113.jpeg)
 
+![WhatsApp Image 2020-07-29 at 8 51 29 PM (1)](https://user-images.githubusercontent.com/61554600/88822910-e77e1980-d1dd-11ea-8b6c-02ba7626611d.jpeg)
+
+![WhatsApp Image 2020-07-29 at 8 51 29 PM (2)](https://user-images.githubusercontent.com/61554600/88822906-e64cec80-d1dd-11ea-9d09-c216a4a5c78c.jpeg)
+
+![WhatsApp Image 2020-07-29 at 8 51 29 PM (3)](https://user-images.githubusercontent.com/61554600/88822904-e51bbf80-d1dd-11ea-94ec-ca78b75fcbef.jpeg)
+
+![WhatsApp Image 2020-07-29 at 8 51 29 PM (4)](https://user-images.githubusercontent.com/61554600/88822901-e4832900-d1dd-11ea-842c-29d8c3056772.jpeg)
 
 ![WhatsApp Image 2020-07-29 at 8 51 29 PM (5)](https://user-images.githubusercontent.com/61554600/88822888-e2b96580-d1dd-11ea-8a42-a8804807457e.jpeg)
-![WhatsApp Image 2020-07-29 at 8 51 29 PM (4)](https://user-images.githubusercontent.com/61554600/88822901-e4832900-d1dd-11ea-842c-29d8c3056772.jpeg)
-![WhatsApp Image 2020-07-29 at 8 51 29 PM (3)](https://user-images.githubusercontent.com/61554600/88822904-e51bbf80-d1dd-11ea-94ec-ca78b75fcbef.jpeg)
-![WhatsApp Image 2020-07-29 at 8 51 29 PM (2)](https://user-images.githubusercontent.com/61554600/88822906-e64cec80-d1dd-11ea-9d09-c216a4a5c78c.jpeg)
-![WhatsApp Image 2020-07-29 at 8 51 29 PM (1)](https://user-images.githubusercontent.com/61554600/88822910-e77e1980-d1dd-11ea-8b6c-02ba7626611d.jpeg)
-![WhatsApp Image 2020-07-29 at 8 51 29 PM](https://user-images.githubusercontent.com/61554600/88822911-e816b000-d1dd-11ea-90f5-344c65637113.jpeg)
+
+
+
+
+
 
 ## Evaluation ##
 Get the prototypes evaluated quickly by someone in your family or circle.  
