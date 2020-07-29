@@ -48,12 +48,16 @@ Now we have refined our design more and have changed our prototype a bit with th
 ## HCI CONCEPTS ##
 
 The are some major HCI concepts and principles which we have considered while designing this mobile app:-
-1-Discoverabilty.
-2-Simplicity.
-3-Ease.
-4-Comfort.
-5-Tolerance.
 
+1-Discoverabilty.
+
+2-Simplicity.
+
+3-Ease.
+
+4-Comfort.
+
+5-Tolerance.
 
 
 ## Evaluation ##
