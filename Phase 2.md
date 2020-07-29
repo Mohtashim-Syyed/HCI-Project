@@ -6,21 +6,14 @@ StdID | Name
 
 ## Task Finalization ##
 This purpose of this app is to teach illiterate people with ease so we have selected two tasks related to students:-
-#### 1- Student accessibilty to audio and video lectures ####
+#### 1- Student accessibilty to audio and video lectures. ####
 As we all know the main purpose of this app is to provide easy and smooth interface for illiterate people so the first and basic need for them is to access lectures. The main task will be of accessing the lecture which was uploaded by teacher. The lecture will be in a form of video and audio. Student will select wheather he/she want to access a particular lecture in a form of video or audio.
 
-#### 2- Student attempting Quiz ####
+#### 2- Student attempting Quiz. ####
 The second main task is to evaluate that wheather student is understanding through the lectures provided by the teachers or not so for that there will be assesment in a form of small quizzes. After viewing lectures the student will select quiz option and will select the level of difficulty for his quiz, then he/she can attempt it. 
 
 ## Need Finding ##
-
-1- As we all know the main purpose of this app is to provide easy and smooth interface for illiterate people so the first and basic need for them is to access lectures. The main task will be of accessing the lecture which was uploaded by teacher. The lecture will be in a form of video and audio. Student will select wheather he/she want to access a particular lecture in a form of video or audio.
-
-2- The second main task is to evaluate that wheather student is understanding through the lectures provided by the teachers or not so for that there will be assesment in a form of small quizzes. After viewing lectures the student will select quiz option and will select the level of difficulty for his quiz, then he/she can attempt it. 
-
-Who are the major target audience/users who perform the task selected. 
-
-Many other questions. 
+For the above two task our targeted audeince will be illiterate people. These people will access our app a student and will learn through it by different means which our app will provide.
 
 ## Design Alternatives ##
 
