@@ -30,7 +30,7 @@ For the above two task our targeted audeince will be illiterate people. These pe
 9- This design will compliment our previous design,In this desgin we use all the features that we mentioned in our previous design with the addition of checkboxes which will help our to type less and will save their time.
 
 ## Personas ##
-1-Jameel is an old person that and he is al labour in a construction company. Due to the environment there he is suffering from weak eyes and age factor. He is illiterate and want to start learing in his free time.
+1-Jameel is an old person and he is al labour in a construction company. Due to the environment there he is suffering from weak eyes and age factor. He is illiterate and want to start learing in his free time.
 
 2-Ali is 16 years old young child, who have some knowledge of smart phones, due to financial problem ali left his school 3 years ago and he is currently working at a small shop for money.
 
