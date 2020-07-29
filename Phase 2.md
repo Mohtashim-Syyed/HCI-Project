@@ -80,14 +80,6 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 5- By considering each and every questions we select design 4 and 9 for our prototyping as they are quite better than others.
 
-1) List down at-least 10 design alternatives.
-2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
-- 6-7 personas
-- 4 scenarios
-- 4 storyboards
-3) Brainstorm few questions from perspective of each persona in each scenario and story.  
-4) Based on those question finalize at-least 2 designs.
-
 ## Prototyping ##
 Develop low fidelity prototypes for each of the 2 disgns selected above. 
 
