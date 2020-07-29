@@ -45,7 +45,16 @@ Now we have refined our design more and have changed our prototype a bit with th
 ![13](https://user-images.githubusercontent.com/61554600/88825835-7476a200-d1e1-11ea-80dd-86a06030e6e3.PNG)
 
 
-Explain using HCI concepts, the reason for key design features in your interface.
+## HCI CONCEPTS ##
+
+The are some major HCI concepts and principles which we have considered while designing this mobile app:-
+1-Discoverabilty.
+2-Simplicity.
+3-Ease.
+4-Comfort.
+5-Tolerance.
+
+
 
 ## Evaluation ##
-Get the prototypes evaluated by someone in your family or circle get detailed feedback.
+The app is easy to use. all the options and features are visible and ideal for all age group people.
