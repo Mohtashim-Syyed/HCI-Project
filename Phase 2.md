@@ -5,12 +5,18 @@ StdID | Name
 63433 | Yousuf Muhammad Khan
 
 ## Task Finalization ##
+This purpose of this app is to teach illiterate people with ease so we have selected both task related to students.
+# 1- Student accessibilty to audio and video lectures #
+As we all know the main purpose of this app is to provide easy and smooth interface for illiterate people so the first and basic need for them is to access lectures. The main task will be of accessing the lecture which was uploaded by teacher. The lecture will be in a form of video and audio. Student will select wheather he/she want to access a particular lecture in a form of video or audio.
 
-From the list of tasks that you provided in phase 1, select 1 or 2 that you intent to implement in your application or provide ease to the society by applying HCI concepts to that task. 
+# 2- Student attempting Quiz #
+The second main task is to evaluate that wheather student is understanding through the lectures provided by the teachers or not so for that there will be assesment in a form of small quizzes. After viewing lectures the student will select quiz option and will select the level of difficulty for his quiz, then he/she can attempt it. 
 
 ## Need Finding ##
 
-Use internet to find videos, real scenarios, current trends etc etc of how that particular task is usually performed. 
+1- As we all know the main purpose of this app is to provide easy and smooth interface for illiterate people so the first and basic need for them is to access lectures. The main task will be of accessing the lecture which was uploaded by teacher. The lecture will be in a form of video and audio. Student will select wheather he/she want to access a particular lecture in a form of video or audio.
+
+2- The second main task is to evaluate that wheather student is understanding through the lectures provided by the teachers or not so for that there will be assesment in a form of small quizzes. After viewing lectures the student will select quiz option and will select the level of difficulty for his quiz, then he/she can attempt it. 
 
 Who are the major target audience/users who perform the task selected. 
 
