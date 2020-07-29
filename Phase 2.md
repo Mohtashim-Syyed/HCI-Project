@@ -30,7 +30,7 @@ For the above two task our targeted audeince will be illiterate people. These pe
 9- This design will compliment our previous design,In this desgin we use all the features that we mentioned in our previous design with the addition of checkboxes which will help our to type less and will save their time.
 
 ## Personas ##
-1-Jameel is an old person and he is al labour in a construction company. Due to the environment there he is suffering from weak eyes and age factor. He is illiterate and want to start learing in his free time.
+1-Jameel is an old person and he is a labour in a construction company. Due to the environment there he is suffering from weak eyes and age factor. He is illiterate and want to start learing in his free time.
 
 2-Ali is 16 years old young child, who have some knowledge of smart phones, due to financial problem ali left his school 3 years ago and he is currently working at a small shop for money.
 
@@ -43,7 +43,7 @@ For the above two task our targeted audeince will be illiterate people. These pe
 6-Hasan is a 33 years old man. He is a barber and have no knowledge about smart phone and social apps.
 
 ## Scenarios ##
-1-Suppose jameel want to use our app and we know he have weak eyesight so he just afetring opeing this app there will be demo video with audio that will make him clear where to click for his desired task, it addition with this, there will be audio lectures as well so if he could not read the lectures so he have option to listen them.
+1-Suppose jameel want to use our app and we know he have weak eyesight so just after opening this app there will be demo video with audio that will make him clear where to click for his desired task, it addition with this, there will be audio lectures as well so if he could not read the lectures so he have option to listen them.
 
 2-Hassan open the app and he has zero knowledge about the mobile apps. He will start the app and just after it this will be a complete demo video to guide him.
 
