@@ -36,8 +36,12 @@ For the above two task our targeted audeince will be illiterate people. These pe
 9- This design will compliment our previous design,In this desgin we use all the features that we mentioned in our previous design with the addition of checkboxes which will help our to type less and will save their time.
 
 ## Personas ##
-
-
+1-Jameel is an old person that and he is al labour in a construction company. Due to the environment there he is suffering from weak eyes and age factor. He is illiterate and want to start learing in his free time.
+2-Ali is 16 years old young child, who have some knowledge of smart phones, due to financial problem ali left his school 3 years ago and he is currently working at a small shop for money.
+3-Arsalan is a 30 years old man. He is illiterate and plumber by profession. He know all the functionality of smart phones.
+4-Ahsan is a 20 years old guy and He is currently studying in PAF-KIET. He is a tutor also and give free tuitions to needy students.
+5-Sufiyan is 61 years old man. He is not much familiar with smart phones.He have a masters degree in Computer science, he had worked a teacher at various institutes and now he is retired and want to provide tutions to students through social media platforms.
+6-Hasan is a 33 years old man. He is a barber and have no knowledge about smart phone and social apps.
 
 1) List down at-least 10 design alternatives.
 2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
