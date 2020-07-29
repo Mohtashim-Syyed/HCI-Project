@@ -48,6 +48,16 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 6-Hasan is a 33 years old man. He is a barber and have no knowledge about smart phone and social apps.
 
+## Scenarios ##
+1-Suppose jameel want to use our app and we know he have weak eyesight so he just afetring opeing this app there will be demo video with audio that will make him clear where to click for his desired task, it addition with this, there will be audio lectures as well so if he could not read the lectures so he have option to listen them.
+
+2-Hassan open the app and he has zero knowledge about the mobile apps. He will start the app and just after it this will be a complete demo video to guide him.
+
+3- Arsalan opens the app and he knows every functionality of smart phones but he is illiterate and do not know languages well. so he will select urdu language and will listen and watch urdu lectures.
+
+4-Sufiyan is a retired teacher and he open the app,but his system is very slow that why we cannot load video lectures properly.
+
+
 1) List down at-least 10 design alternatives.
 2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
 - 6-7 personas
