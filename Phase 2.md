@@ -1,9 +1,3 @@
-### PROJECT MEMBERS ###
-StdID | Name
------------- | -------------
-**63152** | **Syed Muhammad Mohtashim Kamal** <!--this is the group leader in bold-->
-63433 | Yousuf Muhammad Khan
-
 ## Task Finalization ##
 This purpose of this app is to teach illiterate people with ease so we have selected two tasks related to students:-
 #### 1- Student accessibilty to audio and video lectures. ####
