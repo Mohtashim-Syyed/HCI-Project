@@ -69,8 +69,6 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 ![WhatsApp Image 2020-07-29 at 5 46 12 PM](https://user-images.githubusercontent.com/61554600/88802138-18e9eb80-d1c4-11ea-9bfd-2e373d35183b.jpeg)
 
-
-
 1) List down at-least 10 design alternatives.
 2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
 - 6-7 personas
