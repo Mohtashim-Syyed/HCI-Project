@@ -69,6 +69,17 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 ![WhatsApp Image 2020-07-29 at 5 46 12 PM](https://user-images.githubusercontent.com/61554600/88802138-18e9eb80-d1c4-11ea-9bfd-2e373d35183b.jpeg)
 
+## Brainstroming ##
+1-As we know this app is also for old people so they want all the options to be visible on the screen.
+
+2-The goal of this is to provide easy education to illiterates. so for that interface should be easy to use.
+
+3-Less tasks should be perform on a single screen.
+
+4-Font must be visible and buttons must be at accurate places.
+
+5- By considering each and every questions we select design 4 and 9 for our prototyping as they are quite better than others.
+
 1) List down at-least 10 design alternatives.
 2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
 - 6-7 personas
