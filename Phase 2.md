@@ -81,7 +81,13 @@ For the above two task our targeted audeince will be illiterate people. These pe
 5- By considering each and every questions we select design 4 and 9 for prototyping as they are quite better than others.
 
 ## Prototyping ##
-Develop low fidelity prototypes for each of the 2 disgns selected above. 
+
+#### Prototype:-01 ####
+
+![WhatsApp Image 2020-07-29 at 7 19 48 PM (1)](https://user-images.githubusercontent.com/61554600/88812016-b21eff00-d1d0-11ea-96cc-4a877682a91a.jpeg)
+![WhatsApp Image 2020-07-29 at 7 19 48 PM](https://user-images.githubusercontent.com/61554600/88812020-b3502c00-d1d0-11ea-9813-7c58d5da9616.jpeg)
+![WhatsApp Image 2020-07-29 at 7 19 47 PM](https://user-images.githubusercontent.com/61554600/88812025-b3e8c280-d1d0-11ea-89b0-4ff7d1d6a53b.jpeg)
+
 
 ## Evaluation ##
 Get the prototypes evaluated quickly by someone in your family or circle.  
