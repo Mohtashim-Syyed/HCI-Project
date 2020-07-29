@@ -57,6 +57,10 @@ For the above two task our targeted audeince will be illiterate people. These pe
 
 4-Sufiyan is a retired teacher and he open the app,but his system is very slow that why we cannot load video lectures properly.
 
+## Storyboards ##
+
+
+
 
 1) List down at-least 10 design alternatives.
 2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
