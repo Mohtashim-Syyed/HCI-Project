@@ -1,5 +1,5 @@
 ## Task Finalization ##
-This purpose of this app is to teach illiterate people with ease so we have selected two tasks related to students :-
+The purpose of this app is to teach illiterate people with ease so we have selected two tasks related to students :-
 #### 1- Student accessibilty to audio and video lectures. ####
 As we all know the main purpose of this app is to provide easy and smooth interface for illiterate people so the first and basic need for them is to access lectures. The main task will be of accessing the lecture which was uploaded by teacher. The lecture will be in a form of video and audio. Student will select wheather he/she want to access a particular lecture in a form of video or audio.
 
