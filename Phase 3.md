@@ -62,5 +62,7 @@ The are some major HCI concepts and principles which we have considered while de
 
 5-Tolerance.
 
+6-Flexibility.
+
 ## Evaluation ##
 The app is easy to use. all the options and features are visible and ideal for all age group people.
