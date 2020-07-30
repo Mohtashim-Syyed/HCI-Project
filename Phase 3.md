@@ -1,3 +1,8 @@
+### PROJECT MEMBERS ###
+StdID | Name
+------------ | -------------
+**63152** | **Syed Muhammad Mohtashim Kamal** <!--this is the group leader in bold-->
+63433 | Yousuf Muhammad Khan
 ## Need Finding ##
 The final design which we have selected is design 9 and prototype no 2. 
 ## Design Alternatives ##
